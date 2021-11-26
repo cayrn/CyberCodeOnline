@@ -32,7 +32,7 @@
  	 	 	 	"eng": "You can purchase global buff items here"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Kamu perlu setidaknya level 5 untuk mengakses bursa",
+ 	 	 	 	"trans": "Kamu perlu setidaknya level 3 untuk mengakses bursa",
  	 	 	 	"eng": "You need to be at least level 3 to access unit exchange"
  	 	 	}
  	 	},
@@ -46,13 +46,13 @@
  	 	 	 	"eng": "If you liked the game, please consider donation :)"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Kamu perlu setidaknya level 5 untuk mengakses pedagang kosmetik",
+ 	 	 	 	"trans": "Kamu perlu setidaknya level 3 untuk mengakses pedagang kosmetik",
  	 	 	 	"eng": "You need to be at least level 3 to access cosmetic merchant"
  	 	 	}
  	 	},
  	 	"printer": {
  	 	 	"name": {
- 	 	 	 	"trans": "Printer 3d Molekuler",
+ 	 	 	 	"trans": "Printer Molekuler 3d",
  	 	 	 	"eng": "Molecular 3d Printer"
  	 	 	},
  	 	 	"tut": {
@@ -76,7 +76,7 @@
  	 	 	 	"eng": "To progress to the next area, you need to get Secret Key Fragments from dungeons, \r\n        and use the Terminal to Brute Force the key for next area"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Meskipun sudah agak sedikit usang, Komputermu dapat menyelesaikan pekerjaan dengan sedikit kesabaran",
+ 	 	 	 	"trans": "Meskipun sudah agak sedikit usang, dengan sedikit kesabaran, komputermu dapat menyelesaikan pekerjaan",
  	 	 	 	"eng": "Your personal computer, although it's a little outdated, it can get the job done with enough patience"
  	 	 	},
  	 	 	"canAccessError": {
@@ -86,7 +86,7 @@
  	 	},
  	 	"store": {
  	 	 	"name": {
- 	 	 	 	"trans": "Toko Trinoky",
+ 	 	 	 	"trans": "Pasar Trinoky",
  	 	 	 	"eng": "Trinoky Mart"
  	 	 	}
  	 	},
@@ -173,7 +173,7 @@
  	 	},
  	 	"print": {
  	 	 	"name": {
- 	 	 	 	"trans": "Level print",
+ 	 	 	 	"trans": "Level mencetak",
  	 	 	 	"eng": "printing rank"
  	 	 	}
  	 	},
@@ -209,12 +209,12 @@
  	 	 	 	"eng": "Shangri-La City center"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Central Hub]\r\n        Salah satu kota tersibuk di benua ini, di sini kamu dapat menemukan segala macam orang dari berbagai belahan dunia.",
+ 	 	 	 	"trans": "[Central Hub]\r\n        Salah satu kota tersibuk di benua ini. Di sini kamu dapat menemukan segala macam orang dari berbagai belahan dunia.",
  	 	 	 	"eng": "[Central Hub]\r\n        One of the busiest cities in the continent. Here you can find all sorts of people from around the globe."
  	 	 	},
  	 	 	"toStation": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Pergi ke Stasiun Pusat Kereta Hyper",
+ 	 	 	 	 	"trans": "Pergi ke Stasiun Kereta Pusat Hyper",
  	 	 	 	 	"eng": "Go to Hyper Train Central Station"
  	 	 	 	},
  	 	 	 	"tut": {
@@ -222,7 +222,7 @@
  	 	 	 	 	"eng": "Start your adventure for epic loot here"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Pergi ke Stasiun Pusat Kereta Hyper",
+ 	 	 	 	 	"trans": "Pergi ke Stasiun Kereta Pusat Hyper",
  	 	 	 	 	"eng": "Go to Hyper Train Central Station"
  	 	 	 	}
  	 	 	},
@@ -259,7 +259,7 @@
  	 	 	 	"eng": "Shangri-La Commercial Area"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Job Hub]\r\n        Banyak toko dan tempat bisnis, lokasi yang cocok untuk mencoba kemampuan kamu.",
+ 	 	 	 	"trans": "[Job Hub]\r\n        Di sini banyak toko dan tempat bisnis berada. Lokasi yang cocok untuk mencoba kemampuan kamu.",
  	 	 	 	"eng": "[Job Hub]\r\n        Here are many shops and businesses reside. The perfect location to hone and refine your skills."
  	 	 	},
  	 	 	"toMainHub": {
@@ -275,7 +275,7 @@
  	 	 	 	"eng": "Shangri-La Market Street"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Player Market]\r\n        Jalan Pasar yang sangat terkenal di Shangri-La. banyak lapak penjual di sini.\r\n        mungkin kamu dapat menemukan yang kamu cari atau membuka lapak sendiri.",
+ 	 	 	 	"trans": "[Player Market]\r\n        Jalan Pasar yang sangat terkenal di Shangri-La. Banyak lapak penjual di sini.\r\n        Mungkin kamu dapat menemukan yang kamu cari atau membuka lapak sendiri.",
  	 	 	 	"eng": "[Player Market]\r\n        The famous market street in Shangri-La. Loads of market stalls fill the street.\r\n        Maybe you can find something you need or set up shop yourself."
  	 	 	},
  	 	 	"toMainHub": {
@@ -287,7 +287,7 @@
  	 	},
  	 	"station": {
  	 	 	"name": {
- 	 	 	 	"trans": "Stasiun Pusat Kereta Hyper",
+ 	 	 	 	"trans": "Stasiun Kereta Pusat Hyper",
  	 	 	 	"eng": "Hyper Train Central Station"
  	 	 	},
  	 	 	"description": {
@@ -330,11 +330,11 @@
  	 	 	},
  	 	 	"toStation": {
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Kembali ke Stasiun Pusat Kereta Hyper",
+ 	 	 	 	 	"trans": "Kembali ke Stasiun Kereta Pusat Hyper",
  	 	 	 	 	"eng": "Return to Hyper Train Station"
  	 	 	 	},
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Stasiun Pusat Kereta Hyper",
+ 	 	 	 	 	"trans": "Stasiun Kereta Pusat Hyper",
  	 	 	 	 	"eng": "back to Hyper Train Station"
  	 	 	 	}
  	 	 	}
@@ -347,7 +347,7 @@
  	 	 	 	}
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Area mulai dari level 1 sampai 10",
+ 	 	 	 	"trans": "Mulai dari area level 1 sampai 10",
  	 	 	 	"eng": "Start with level 1 to 10 area"
  	 	 	},
  	 	 	"toZone": {
@@ -491,7 +491,7 @@
  	 	 	 	"eng": "Pain Away"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Apakah kamu sakit kepala? gunakan Penghilang Rasa Sakit™ untuk menghilangkan sakit kepalamu!",
+ 	 	 	 	"trans": "Apakah kamu sakit kepala? gunakan Penghilang Rasa Sakit™ untuk menghilangkan sakitmu!",
  	 	 	 	"eng": "Do you have headache? Use Pain Away™ to relieve your pain!"
  	 	 	}
  	 	},
@@ -511,7 +511,7 @@
  	 	 	 	"eng": "Degraded Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Bot medis nano usang, suntikkan untuk menyembuhkan segala luka(*conditions apply)!",
+ 	 	 	 	"trans": "Bot medis nano usang, suntikkan untuk menyembuhkan segala luka (*conditions apply)!",
  	 	 	 	"eng": "Old nano medic bot is used to cure any (*conditions apply) injury!"
  	 	 	}
  	 	},
@@ -521,7 +521,7 @@
  	 	 	 	"eng": "Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "suntikkan untuk menyembuhkan segala luka(*conditions apply)",
+ 	 	 	 	"trans": "suntikkan untuk menyembuhkan segala luka (*conditions apply)",
  	 	 	 	"eng": "Inject it to cure any(*conditions apply) injury!"
  	 	 	}
  	 	},
@@ -531,7 +531,7 @@
  	 	 	 	"eng": "Military Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Nano mesin yang dapat disuntikkan dan biasa digunakan untuk keperluan militer, dapat untuk menutup luka ketika bertarung.",
+ 	 	 	 	"trans": "Mesin nano yang dapat disuntikkan, standar untuk penggunaan militer. dapat mengobati luka ketika bertarung.",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They are capable of patching injuries while in combat."
  	 	 	}
  	 	},
@@ -541,17 +541,17 @@
  	 	 	 	"eng": "Advanced Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Mesin nano yang dapat disuntik dan biasanya dipakai oleh militer, dapat untuk menutup luka ketika bertarung.",
+ 	 	 	 	"trans": "Mesin nano yang dapat disuntikkan, standar untuk penggunaan militer. Dapat mengobati luka ketika bertarung.",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They're capable of patching injuries while in combat."
  	 	 	}
  	 	},
  	 	"healing7": {
  	 	 	"name": {
- 	 	 	 	"trans": "Bot Nano Medis Berkualitas Tinggi",
+ 	 	 	 	"trans": "Bot Nano Medis Kualitas Tinggi",
  	 	 	 	"eng": "High Quality Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Mesin nano yang dapat disuntik dan biasanya dipakai untuk keperluan militer canggih, dapat digunakan untuk menutup luka ketika bertarung.",
+ 	 	 	 	"trans": "Mesin nano yang dapat disuntikkan, standar untuk penggunaan militer. Dapat mengobati luka ketika bertarung.",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They're capable of patching injuries while in combat."
  	 	 	}
  	 	},
@@ -561,7 +561,7 @@
  	 	 	 	"eng": "Rare Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Mesin nano yang dapat disuntik dan biasanya dipakai untuk keperluan militer canggih,dapat digunakan untuk menutup luka ketika bertarung.",
+ 	 	 	 	"trans": "Mesin nano yang dapat disuntikkan, standar untuk penggunaan militer. Dapat mengobati luka ketika bertarung.",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They're capable of patching injuries while in combat."
  	 	 	}
  	 	},
@@ -571,7 +571,7 @@
  	 	 	 	"eng": "Pain Away Spray"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Apakah kamu dan temanmu sakit kepala bersama? gunakan Semprotan Penghilang Rasa Sakit™ untuk menghilangkan rasa sakitnya!",
+ 	 	 	 	"trans": "Apakah kamu dan temanmu sakit kepala bersama? gunakan Semprotan Penghilang Rasa Sakit™ untuk menghilangkan rasa sakit kalian!",
  	 	 	 	"eng": "Do you and your friends both have headaches? Use Pain Away Spray™ to relief your pain!"
  	 	 	}
  	 	},
@@ -601,7 +601,7 @@
  	 	 	 	"eng": "Nano medic drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "dapat menyebarkan ribuan mesin nano untuk menyembuhkan pemain lain di sekitarmu",
+ 	 	 	 	"trans": "Dapat menyebarkan ribuan mesin nano untuk menyembuhkan pemain lain di sekitarmu",
  	 	 	 	"eng": "capable of dispatching thousands of nano machines to heal nearby players"
  	 	 	}
  	 	},
@@ -621,7 +621,7 @@
  	 	 	 	"eng": "Advance Nano medic drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "dapat menyebarkan ribuan mesin nano tingkat tinggi untuk menyembuhkan pemain lain di sekitarmu",
+ 	 	 	 	"trans": "dapat menyebarkan ribuan mesin nano canggih untuk menyembuhkan pemain lain di sekitarmu",
  	 	 	 	"eng": "capable of dispatching thousands of advanced nano machines to heal nearby players"
  	 	 	}
  	 	},
